@@ -4,7 +4,7 @@ title: Pharmadika
 subtitle: Fullstack Bootcamp Project
 image: /uploads/pharmadika-1.PNG
 ---
-The features I work on this E-commerce Web App [project](https://pharmadika.netlify.app/){: target="_blank" rel="noopener"}\:<br><br>![Palm trees](/uploads/categories.PNG){: width="1893" height="749"}
+The features I work on this [E-commerce Web App](https://pharmadika.netlify.app/){: target="_blank" rel="noopener"}\:<br><br>![Palm trees](/uploads/categories.PNG){: width="1893" height="749"}
 
 ![](/uploads/categories-redirect.PNG){: width="1902" height="897"}
 
