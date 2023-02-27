@@ -4,13 +4,13 @@ title: Pharmadika
 subtitle: Fullstack Bootcamp Project
 image: /uploads/pharmadika-1.PNG
 ---
-The features I work on this [E-commerce Web App](https://pharmadika.netlify.app/){: target="_blank" rel="noopener"}\:<br><br>![Palm trees](/uploads/categories.PNG){: width="1893" height="749"}
+The features I work on this [E-commerce Web App Project](https://pharmadika.netlify.app/){: target="_blank" rel="noopener"}\:<br><br>![](/uploads/categories.PNG){: width="1893" height="749"}
 
 ![](/uploads/categories-redirect.PNG){: width="1902" height="897"}
 
 Categories at home page will link to product list with category selected.
 
-![Sea](/uploads/latest-product.PNG){: width="1903" height="733"}
+![](/uploads/latest-product.PNG){: width="1903" height="733"}
 
 New Products at home page shows four latest products added in the app.<br>Product Card shows name, price, and stock for each product.
 
