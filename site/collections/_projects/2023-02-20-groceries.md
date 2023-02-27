@@ -9,7 +9,7 @@ image: /uploads/groceries.PNG
 
 ![](/uploads/groceries-edit.PNG){: width="1902" height="897"}
 
-The features I work on this [Groceries Project](https://pharmadika.netlify.app/){: target="\_blank" rel="noopener"}\:<br>\- Create new data.<br>\- Read all data.<br>\- Update selected data.<br>\- Delete selected data.<br>\- Show data in barchart.
+The features I work on this [Groceries Project](https://groceries-firestore.netlify.app/){: target="\_blank" rel="noopener"}\:<br>\- Create new data.<br>\- Read all data.<br>\- Update selected data.<br>\- Delete selected data.<br>\- Show data in barchart.
 
 > ###### ​​​​​​​![](/uploads/information-technology-icon-clipart-1-1-1.png){: width="200" height="200"}
 
