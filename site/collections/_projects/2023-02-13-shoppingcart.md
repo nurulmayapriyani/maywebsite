@@ -10,4 +10,4 @@ The features I work on this [Shopping Cart Project](https://cart-shopping-redux.
 
 > ![](/uploads/information-technology-icon-clipart-1-1-1.png)
 
-The technologies I use on this project:<br>\- React.js.<br>\- Redux.<br>\- Bootstrap.<br>\- CSS.
+The technologies I use on this project:<br>\- React.js (functional/hooks).<br>\- Redux.<br>\- Bootstrap.<br>\- CSS.

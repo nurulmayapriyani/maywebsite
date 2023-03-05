@@ -13,4 +13,4 @@ The features I work on this [Groceries Project](https://groceries-firestore.netl
 
 > ###### ​​​​​​​![](/uploads/information-technology-icon-clipart-1-1-1.png){: width="200" height="200"}
 
-The technologies I use on this project:<br>\- React.js.<br>\- Firebase (firestore).<br>\- React plotly.js.<br>\- Material UI.<br>\- Day.js.
+The technologies I use on this project:<br>\- React.js (functional/hooks).<br>\- Firebase (firestore).<br>\- React plotly.js.<br>\- Material UI.<br>\- Day.js.

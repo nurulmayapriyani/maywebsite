@@ -11,4 +11,4 @@ The features I work on this [Tree Component Project](https://tree-component.netl
 
 > ###### ​​​​​​​![](/uploads/information-technology-icon-clipart-1-1-1.png){: width="200" height="200"}
 
-The technologies I use on this project:<br>\- React.js.<br>\- React Arborist.<br>\- Fortawesome.<br>
+The technologies I use on this project:<br>\- React.js (functional/hooks).<br>\- React Arborist.<br>\- Fortawesome.<br>

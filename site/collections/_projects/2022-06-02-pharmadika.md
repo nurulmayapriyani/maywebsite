@@ -34,4 +34,4 @@ Report shows all approved transactions and the details.
 
 > ###### ​​​​​​​![](/uploads/information-technology-icon-clipart-1-1-1.png){: width="200" height="200"}
 
-The technologies I use on this project:<br>\- React.js.<br>\- Sweetalert.<br>\- Material UI.<br>\- Styled Component.<br>\- Axios.<br>\- Node.js.<br>\- Express.js.<br>\- MySQL.<br>\- ORM Sequelize.
+The technologies I use on this project:<br>\- React.js (functional/hooks).<br>\- Sweetalert.<br>\- Material UI.<br>\- Styled Component.<br>\- Axios.<br>\- Node.js.<br>\- Express.js.<br>\- MySQL.<br>\- ORM Sequelize.
