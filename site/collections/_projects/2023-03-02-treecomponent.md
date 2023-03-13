@@ -4,7 +4,7 @@ title: Tree Component
 subtitle: Front End Project
 image: /uploads/treecomponent.png
 ---
-Periode = 28 February 2023 - 1 March 2023
+Work Period of Project: 28 February 2023 - 1 March 2023
 
 ![](/uploads/treecomponent1.png){: width="1893" height="749"}
 
