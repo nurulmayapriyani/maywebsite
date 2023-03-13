@@ -4,6 +4,8 @@ title: Pharmadika
 subtitle: Fullstack Bootcamp Project
 image: /uploads/pharmadika-1.PNG
 ---
+Periode = 28 March 2022 - 2 June 2022
+
 The features I work on this [E-commerce Web App Project](https://pharmadika.netlify.app/){: target="_blank" rel="noopener"}\:<br><br>![](/uploads/categories.PNG){: width="1893" height="749"}
 
 ![](/uploads/categories-redirect.PNG){: width="1902" height="897"}

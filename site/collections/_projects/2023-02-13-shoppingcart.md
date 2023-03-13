@@ -4,6 +4,8 @@ title: Shopping Cart
 subtitle: Front End Project
 image: /uploads/shoppingcart.PNG
 ---
+Periode = 2 February 2023 - 4 February 2023
+
 ![](/uploads/shoppingcart1.PNG){: width="1915" height="864"}
 
 The features I work on this [Shopping Cart Project](https://cart-shopping-redux.netlify.app/){: target="_blank" rel="noopener"}\:<br>\- Counter cart items with redux.<br>\- Remove Item and Move to Wishlist buttons with redux.<br>\- Show Temporary Amount and Total Amount of cart items.<br>\- Show cart items.<br>\- Responsive design.

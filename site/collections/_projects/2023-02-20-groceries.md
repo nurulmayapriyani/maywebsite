@@ -4,6 +4,7 @@ title: Groceries
 subtitle: Fullstack Project
 image: /uploads/groceries.PNG
 ---
+Periode = 14 February 2023 - 20 February 2023
 
 ![](/uploads/groceries-add.PNG){: width="1893" height="749"}
 
