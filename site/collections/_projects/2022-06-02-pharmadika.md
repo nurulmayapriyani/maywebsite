@@ -4,7 +4,7 @@ title: Pharmadika
 subtitle: Fullstack Bootcamp Project
 image: /uploads/pharmadika-1.PNG
 ---
-Work Period of Project: 28 March 2022 - 2 June 2022
+Work Period of Project: 28th March 2022 - 2nd June 2022
 
 The features I work on this [E-commerce Web App Project](https://pharmadika.netlify.app/){: target="_blank" rel="noopener"}\:<br><br>![](/uploads/categories.PNG){: width="1893" height="749"}
 

@@ -4,7 +4,7 @@ title: Shopping Cart
 subtitle: Front End Project
 image: /uploads/shoppingcart.PNG
 ---
-Work Period of Project: 2 February 2023 - 4 February 2023
+Work Period of Project: 2nd February 2023 - 4th February 2023
 
 ![](/uploads/shoppingcart.PNG){: width="1915" height="864"}
 

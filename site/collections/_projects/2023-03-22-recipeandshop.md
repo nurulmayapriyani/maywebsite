@@ -4,7 +4,7 @@ title: Recipe and Shop
 subtitle: UI/UX Design Project
 image: /uploads/recipe-home.png
 ---
-Work Date of Project: 21 March 2023
+Work Date of Project: 22nd March 2023
 
 ![](/uploads/recipe-home.png){: width="1893" height="749"}
 

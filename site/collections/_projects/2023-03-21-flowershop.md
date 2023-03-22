@@ -4,11 +4,9 @@ title: Flower Shop
 subtitle: UI/UX Design Project
 image: /uploads/flower-shop-home.png
 ---
-Work Date of Project: 21 March 2023
+Work Date of Project: 21st March 2023
 
-![](/uploads/flower-shop-home.png){: width="1893" height="749"}
-
-![](/uploads/flower-shop-product-detail.png){: width="1893" height="749"}
+![](/uploads/flower-shop-home.png){: width="1893" height="749"} ![](/uploads/flower-shop-product-detail.png){: width="1893" height="749"}
 
 > ###### ​​​​​​​![](/uploads/image.png){: width="200" height="200"}
 
