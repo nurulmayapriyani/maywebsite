@@ -6,6 +6,8 @@ image: /uploads/flower-shop-home.png
 ---
 Work Date of Project: 21st March 2023
 
+Frame: Android Large (360 x 800)
+
 ![](/uploads/flower-shop-home.png){: width="1893" height="749"}
 
 ![](/uploads/flower-shop-product-detail.png){: width="1893" height="749"}

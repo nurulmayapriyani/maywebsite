@@ -6,6 +6,8 @@ image: /uploads/recipe-home.png
 ---
 Work Date of Project: 22nd March 2023
 
+Frame: Ipad Pro 11" (834 x 1194)
+
 ![](/uploads/recipe-home.png){: width="1893" height="749"}
 
 ![](/uploads/recipe-detail.png){: width="1893" height="749"}
