@@ -1,6 +1,6 @@
 ---
 date: 2023-03-22 12:30:00
-title: Recipe and Shop
+title: Recipe & Shop
 subtitle: UI/UX Design Project
 image: /uploads/recipe-home.png
 ---
