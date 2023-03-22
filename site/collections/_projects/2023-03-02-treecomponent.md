@@ -6,6 +6,8 @@ image: /uploads/treecomponent.png
 ---
 Work Period of Project: 28 February 2023 - 1 March 2023
 
+![](/uploads/treecomponent.png){: width="1893" height="749"}
+
 ![](/uploads/treecomponent1.png){: width="1893" height="749"}
 
 The features I work on this [Tree Component Project](https://tree-component.netlify.app/){: target="\_blank" rel="noopener"}\:<br>\- Show tree hierarchies for big data sets scale with the icon and color.<br>\- Every tree hierarchy is draggable and able to be dropped to one another.<br>\- Show the name of clicked tree hierarchy at right pane.<br>
