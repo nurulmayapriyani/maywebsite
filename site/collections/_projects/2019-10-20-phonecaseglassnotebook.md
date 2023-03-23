@@ -16,8 +16,6 @@ Work Date of Project: 20th October 2019
 
 ![](/uploads/POP-SOCKET-ACRYLIC-CUSTOM.png){: width="1893" height="749"}
 
-![](/uploads/POP-SOCKET-ACRYLIC-CUSTOM-2.png){: width="1893" height="749"}
-
 ![](/uploads/note-softcover.jpg){: width="1893" height="749"}
 
 ![](/uploads/note-spiral.jpg){: width="1893" height="749"}
