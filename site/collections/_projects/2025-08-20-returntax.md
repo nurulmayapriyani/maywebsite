@@ -38,7 +38,7 @@ User also can filter by creation date in the "Creation Date" field.
 
 ![](/uploads/return-tax-download-csv.png){: width="1893" height="749"}
 
-“Download“ button is always enabled even when user doesn't select any row(s). It will open a modal which contains three inputs; Principal, Start Date, and End Date. When user clicks "Submit" button, it will download a CSV file which contains return data(s) based on Principal, Start Date, and End Date that user input before clicking "Submit" button.
+“Download“ button is always enabled even when user doesn't select any row(s). It will open a modal which contains three inputs; Principal, Start Date, and End Date. When user clicks "Submit" button, it will download a CSV file which contains row(s) based on Principal, Start Date, and End Date that user input before clicking "Submit" button.
 
 ![](/uploads/return-tax-cetak-retur-btn.png){: width="1903" height="733"}
 
@@ -52,7 +52,7 @@ If the status is “Completed” then there is only “Cetak Retur” button tha
 
 ![](/uploads/return-tax-status-draft.png){: width="1899" height="903"}
 
-If the status is “Draft”, then the buttons that are enabled except “Cetak Retur” and “Download” are “Delete All” and “Approve All”.
+If the status is “Draft”, then the buttons that are enabled except “Cetak Retur” and “Download” are “Delete All” button and “Approve All” button.
 
 ![](/uploads/return-tax-approve-btn.png){: width="1899" height="893"}
 
@@ -88,7 +88,7 @@ After successfully generated, the status of selected row will be changed from �
 
 ![](/uploads/return-tax-status-xml-generated.png){: width="1899" height="893"}
 
-If the status is “XML_Generated”, then the buttons that are enabled except “Cetak Retur” and “Download” are “Reject All” button, “Generate All” button, and “Finish All” button.
+If the status is “XML Generated”, then the buttons that are enabled except “Cetak Retur” and “Download” are “Reject All” button, “Generate All” button, and “Finish All” button.
 
 ![](/uploads/return-tax-reject-btn.png){: width="1899" height="893"}
 
@@ -122,7 +122,7 @@ After user clicked “Finish All” button, the status will be changed from “X
 
 ![](/uploads/return-tax-status-rejected.png){: width="1899" height="890"}
 
-If the status is “Rejected”, then the button that is enabled except “Cetak Retur” is “Delete All” button.
+If the status is “Rejected”, then the button that is enabled except “Cetak Retur” and "Download" is “Delete All” button.
 
 ![](/uploads/return-tax-delete-btn.png){: width="1899" height="890"}
 
