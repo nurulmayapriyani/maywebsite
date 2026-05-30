@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem 'jekyll-tagging'
   gem "jekyll-sitemap"
   gem "webrick"
+  gem "base64"
 end

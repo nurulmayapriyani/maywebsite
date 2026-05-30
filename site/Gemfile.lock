@@ -11,6 +11,7 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    base64 (0.3.0)
     citrus (3.0.2)
     cloudcannon-jekyll-bookshop (2.2.2)
       dry-inflector (>= 0.1, < 1.0)
@@ -90,6 +91,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  base64
   cloudcannon-jekyll-bookshop (= 2.2.2)
   csv
   jekyll-bookshop (= 2.2.2)
