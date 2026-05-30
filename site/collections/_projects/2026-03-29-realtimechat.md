@@ -5,7 +5,11 @@ subtitle: Full Stack Project
 image: /uploads/realtime-chat-default.PNG
 ---
 
+This is the default messages from each user:
+
 ![](/uploads/realtime-chat-default.PNG){: width="1915" height="864"}
+
+We can throw any message we want to send:
 
 ![](/uploads/realtime-chat-example.PNG){: width="1915" height="864"}
 
