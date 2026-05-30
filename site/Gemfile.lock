@@ -4,6 +4,7 @@ GIT
   specs:
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+      wdm (~> 0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -81,10 +82,12 @@ GEM
     toml-rb (2.1.0)
       citrus (~> 3.0, > 3.0)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
 
 DEPENDENCIES
   cloudcannon-jekyll-bookshop (= 2.2.2)
@@ -96,4 +99,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.1.4
+   2.6.9
