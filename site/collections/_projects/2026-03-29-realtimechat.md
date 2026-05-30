@@ -5,7 +5,7 @@ subtitle: Full Stack Project
 image: /uploads/realtime-chat-default.PNG
 ---
 
-This is the default messages from each user:
+These are the default messages for each user:
 
 ![](/uploads/realtime-chat-default.PNG){: width="1915" height="864"}
 
