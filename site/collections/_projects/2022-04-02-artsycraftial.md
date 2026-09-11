@@ -6,7 +6,7 @@ image: /uploads/artsycraftial.png
 ---
 Work Period of Project: 27th January 2022 - 4th February 2022
 
-The works I did in Artsy Craftial Project:
+The works I did in [Artsy Craftial Project](https://artsy-craftial.netlify.app/){: target="_blank" rel="noopener"}\:
 
 ![](/uploads/artsycraftial-filter-category.png){: width="1893" height="749"}
 
