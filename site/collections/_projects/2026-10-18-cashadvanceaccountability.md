@@ -52,7 +52,7 @@ User can search based on No. PJBS, No. Bon, and Penanggung Jawab. User also can 
 
 And “Manage Approval” button in table rows will have the approval workflow and Audit Approval Batch besides the details information.
 
-![](/uploads/cash-advence-accountability-approver-summary.png){: width="1903" height="733"}
+![](/uploads/cash-advance-accountability-approver-summary.png){: width="1903" height="733"}
 
 If user login as Supervisor/General Manager Finance/Director Finance, we can see the total of PJBS, total of Pending PJBS, total of Fully Approved PJBS, and total of Rejected BON. User can search by No. PJBS, No. Bon, and Penanggung Jawab. User can filter based on status, “Pending Approval” is for all statuses start with “Waiting”. Status “Fully Approved” will show rows with status “Fully Approved” and status “Rejected” will show rows with status “Rejected”. And user also can filter based on current approval; “Supervisor”, “Manager”, “General Manager Finance”, and “Director Finance”.
 
