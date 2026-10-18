@@ -2,7 +2,7 @@
 date: 2026-10-18 17:33:00
 title: Cash Advance Bizops MPI
 subtitle: Fullstack Project (Fulltime Work)
-image: /uploads/cash-advance-summary.png
+image: /uploads/cash-advance-admin-summary.png
 ---
 Work Period of Project: 29th September 2026 – 6th October 2026
 
