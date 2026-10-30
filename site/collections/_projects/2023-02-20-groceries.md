@@ -1,7 +1,7 @@
 ---
 date: 2023-02-20 23:26:00
 title: Groceries
-subtitle: Fullstack Project
+subtitle: Full-Stack Project
 image: /uploads/groceries.PNG
 ---
 Work Period of Project: 14th February 2023 - 20th February 2023

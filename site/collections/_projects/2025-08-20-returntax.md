@@ -1,7 +1,7 @@
 ---
 date: 2025-08-20 17:00:00
 title: Return Tax Sales Tracking
-subtitle: Fullstack Project (Fulltime Work)
+subtitle: Full-Stack Project (Full-Time Work)
 image: /uploads/return-tax-cover.png
 ---
 Work Period of Project: 25th July 2025 – 20th August 2025  
@@ -162,4 +162,4 @@ If it's failed, the new data will still show up but with status “Incomplete”
 
 > ###### ​​​​​​​![](/uploads/information-technology-icon-clipart-1-1-1.png){: width="200" height="200"}
 
-The technologies I use in this feature:<br>\- React.js (functional/hooks).<br>\- Next.js.<br>\- Formik.<br>\- React-pdf/renderer.<br>\- Dayjs.<br>\- Moment.<br>\- Xlsx.<br>\- Yup.<br>\- React-dropzone<br>\- React-hook-form.<br>\- Sweetalert2.<br>\- Material UI.<br>\- Jszip.<br>\- Xmlbuilder2.<br>\- MySQL.<br>\- Express.js.<br>\- Nest.js.
+The technologies I use in this feature:<br>\- React.js (functional/hooks).<br>\- Next.js.<br>\- Formik.<br>\- React-pdf/renderer.<br>\- Day.js.<br>\- Moment.<br>\- Xlsx.<br>\- Yup.<br>\- React-dropzone<br>\- React-hook-form.<br>\- Sweetalert2.<br>\- Material UI.<br>\- Jszip.<br>\- Xmlbuilder2.<br>\- MySQL.<br>\- Express.js.<br>\- Nest.js.

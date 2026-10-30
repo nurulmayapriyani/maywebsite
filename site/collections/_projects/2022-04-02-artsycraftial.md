@@ -1,7 +1,7 @@
 ---
 date: 2022-04-02 09:33:00
 title: Artsy Craftial
-subtitle: Front End Project
+subtitle: Front-End Project
 image: /uploads/artsycraftial.png
 ---
 Work Period of Project: 27th January 2022 - 4th February 2022

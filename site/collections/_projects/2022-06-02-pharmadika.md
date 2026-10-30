@@ -1,7 +1,7 @@
 ---
 date: 2022-06-02 02:20:00
 title: Pharmadika
-subtitle: Fullstack Bootcamp Project
+subtitle: Full-Stack Bootcamp Project
 image: /uploads/pharmadika-1.PNG
 ---
 Work Period of Project: 28th March 2022 - 2nd June 2022

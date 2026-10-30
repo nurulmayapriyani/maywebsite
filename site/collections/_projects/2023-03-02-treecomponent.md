@@ -1,7 +1,7 @@
 ---
 date: 2023-03-02 12:30:00
 title: Tree Component
-subtitle: Front End Project
+subtitle: Front-End Project
 image: /uploads/treecomponent.png
 ---
 Work Period of Project: 28th February 2023 - 1st March 2023

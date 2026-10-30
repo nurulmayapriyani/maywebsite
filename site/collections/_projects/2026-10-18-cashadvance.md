@@ -1,7 +1,7 @@
 ---
 date: 2026-10-18 17:33:00
 title: Cash Advance Bizops MPI
-subtitle: Fullstack Project (Fulltime Work)
+subtitle: Full-Stack Project (Full-Time Work)
 image: /uploads/cash-advance-admin-summary.png
 ---
 Work Period of Project: 29th September 2026 – 6th October 2026
@@ -86,4 +86,4 @@ If the Current Approver is not Supervisor, both forms either for AP Admin or App
 
 > ###### ​​​​​​​![](/uploads/information-technology-icon-clipart-1-1-1.png){: width="200" height="200"}
 
-The technologies I use in this feature:<br>\- React.js (functional/hooks).<br>\- React Router DOM.<br>\- Material UI (MUI).<br>\- Dayjs.<br>\- Formik & Yup.<br>\- JWT Decode.<br>\- Notistack & SweetAlert2.<br>\- React to Print.<br>\- MySQL.<br>\- Express.js.<br>\- Node.js.<br>\- Joi.<br>\- JSON Web Token.
+The technologies I use in this feature:<br>\- React.js (functional/hooks).<br>\- React Router DOM.<br>\- Material UI (MUI).<br>\- Day.js.<br>\- Formik & Yup.<br>\- JWT Decode.<br>\- Notistack & SweetAlert2.<br>\- React to Print.<br>\- MySQL.<br>\- Express.js.<br>\- Node.js.<br>\- Joi.<br>\- JSON Web Token.
