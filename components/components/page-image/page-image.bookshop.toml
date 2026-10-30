@@ -8,3 +8,4 @@ tags = ["Headers"]
 [props]
 image = "/images/author-big.jpg"
 image_alt = "My best photo"
+cover_style = ""

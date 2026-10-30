@@ -3,6 +3,7 @@ date: 2026-10-28 09:30:00
 title: Expense Tracker
 subtitle: Full-Stack Project
 image: /uploads/expense-tracker-all-expenses.jpg
+cover_style: mobile
 ---
 
 There will be a notification permission when user open the app for the first time:

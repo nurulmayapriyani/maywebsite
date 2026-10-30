@@ -27,3 +27,17 @@
 		margin-bottom: 32px;
 	}
 }
+
+.c-page-image--mobile {
+	max-width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+
+	@media only screen and (max-width: $desktop) {
+		max-width: 80%;
+	}
+
+	@media only screen and (max-width: $mobile) {
+		max-width: 100%;
+	}
+}
