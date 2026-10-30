@@ -6,7 +6,7 @@ image: /uploads/expense-tracker-added-new-expense.jpg
 cover_style: mobile
 ---
 
-You can install and test the app via this link with your android gadget: [Expense_Tracker_Project](https://expo.dev/accounts/nurulmayapriyani/projects/expense-tracker/builds/14ccf886-a4b1-4629-8c35-f6b0cfaeee9d){: target="_blank" rel="noopener"}
+You can install and test the app via this link with your android gadget: [Expense Tracker Project](https://expo.dev/accounts/nurulmayapriyani/projects/expense-tracker/builds/14ccf886-a4b1-4629-8c35-f6b0cfaeee9d){: target="_blank" rel="noopener"}
 
 There will be a notification permission when user open the app for the first time:
 
