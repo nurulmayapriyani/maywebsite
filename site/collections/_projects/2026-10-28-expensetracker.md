@@ -6,8 +6,7 @@ image: /uploads/expense-tracker-added-new-expense.jpg
 cover_style: mobile
 ---
 
-You can install and test the app via this link with your android gadget:
-https://expo.dev/accounts/nurulmayapriyani/projects/expense-tracker/builds/14ccf886-a4b1-4629-8c35-f6b0cfaeee9d
+You can install and test the app via this link with your android gadget: [Expense_Tracker_Project](https://expo.dev/accounts/nurulmayapriyani/projects/expense-tracker/builds/14ccf886-a4b1-4629-8c35-f6b0cfaeee9d){: target="_blank" rel="noopener"}\
 
 There will be a notification permission when user open the app for the first time:
 
@@ -21,11 +20,9 @@ If user click "Create a new user", this is the registration page.
 
 ![](/uploads/expense-tracker-register-form.jpg){: width="48%" style="max-width:100%; height:auto; display:block; margin:0 auto;"}
 
-User can login with the demo account:
-```
-Email: demo@mail.com
+User can login with the demo account:<br>
+Email: demo@mail.com<br>
 Password: demoreactnative
-```
 
 ![](/uploads/expense-tracker-login-with-demo-user.jpg){: width="48%" style="max-width:100%; height:auto; display:block; margin:0 auto;"}
 
